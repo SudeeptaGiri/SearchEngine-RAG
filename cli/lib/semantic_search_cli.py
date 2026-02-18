@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 import argparse
 from email.mime import text
 from sentence_transformers import SentenceTransformer
